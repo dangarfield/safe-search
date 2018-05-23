@@ -4,6 +4,10 @@
 
 This was for a side project required a machine learning microservice that identified both gender and whether the image was suitable for work. The initial models will be basic and available from https://github.com/BVLC/caffe/wiki/Model-Zoo
 
+Code:
+- https://github.com/dangarfield/safe-search
+- https://hub.docker.com/r/dangarfield/safe-search/
+
 Modelling used:
 - __Caffe__ - More specifically the blvc/caffe base image - cpu flavour
 - __gender_classification__ - Generic Gender Model from Gil Levi and Tal Hassner - https://www.openu.ac.il/home/hassner/projects/cnn_agegender/
